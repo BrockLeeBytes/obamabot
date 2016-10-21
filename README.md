@@ -1,3 +1,5 @@
+# Reddit Obamabot
+
 This is a call and response reddit bot created in ruby using [Rest Client](https://github.com/rest-client/rest-client).
 
 This particular bot was designed to check the newest 100 comments for the phrase 'Thanks, Obama'. If the phrase is found the bot replies 'You're welcome' to that comment.
